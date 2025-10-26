@@ -1,0 +1,24 @@
+```
+# Build results
+bin/
+obj/
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio cache/options
+.vscode/
+*.code-workspace
+
+# ESP32 specific
+.pio/
+.vscode/
+platformio.ini.bak
+
+# OS files
+.DS_Store
+Thumbs.db
